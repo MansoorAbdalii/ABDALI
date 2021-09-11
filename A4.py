@@ -36,7 +36,7 @@ warni = random.choice(my_color)
 
 def pkgs():
 
-        love("\033[1;91m«-----------------\033[1;96mMANSOOR ABDALII\033[1;91m-----------------»")
+        love("\033[1;91m«-----------------\033[1;96mMANSOOR ABDALII-----------------»")
 
         love("\033[1;96m«-----------------Disclaimer---------------»")
 
